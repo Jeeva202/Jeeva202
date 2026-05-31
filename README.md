@@ -5,9 +5,8 @@
 
 *Building production-grade enterprise platforms from Bengaluru, India 🇮🇳*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeevaganesh-r-04028118b/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeevaganesh.2812@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
 
 </div>
 
@@ -112,7 +111,7 @@ const jeevaganesh = {
 
 *Open to Staff Engineer roles, interesting problems, and good conversations.*
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeevaganesh-r-04028118b/)
 [![Email](https://img.shields.io/badge/Send_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeevaganesh.2812@gmail.com)
 
 </div>
